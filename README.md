@@ -10,10 +10,8 @@ I'm usually found navigating the digital landscape, turning coffee into code, an
 
 My work centers on relational data modeling and creating systems that unify complex business logic, primarily using the **Next.js** ecosystem.
 
-1.  **[MORAV RMS](https://github.com/YuriDeraven/MORAV-RMS) (Hospitality Suite):** A full-stack MVP (Front Office, POS, Inventory, Payslip, Accounting).
-    * **Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, shadcn/ui, Prisma ORM, and SQLite.
-2.  **[Mini-POS Tracker](https://github.com/YuriDeraven/Mini-POS-System):** A simple, efficient Inventory & Sales Ledger for SMEs.
-    * **Stack:** Next.js 15, React 18, TypeScript, Tailwind CSS, shadcn/ui, Prisma ORM, and SQLite.
+1.  **[JobWay Dashboard](https://github.com/YuriDeraven/jobway-dashboard):** JobWay is a comprehensive, full-stack recruitment dashboard built with React.js, designed to streamline the hiring process for recruiters and HR professionals.
+2.  **[CSV Data Visualization Tool](https://github.com/YuriDeraven/CSV-JSON-Data-Visualization-Tool):** modern, zero-cost data visualization tool built with Next.js 15, TypeScript, and Recharts. Transform your raw CSV and JSON data into beautiful, interactive charts instantly.
 3.  **[Ajo Digital Ledger](https://github.com/YuriDeraven/Ajo-Digital-Ledger):** A Micro-Savings (Ajo/Susu) system for group tracking.
     * **Stack:** Next.js 15, TypeScript, Tailwind CSS, NextAuth.js (Auth), Prisma ORM, and SQLite.
 
